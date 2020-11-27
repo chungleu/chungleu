@@ -10,5 +10,5 @@ My work-ier projects aren't allowed on regular GitHub :speak_no_evil: But I prom
 ## Elsewhere on the web
 
 - Occasionally self-aggrandising: www.linkedin.com/in/chungl
-- Captaining my non-codey team: instagram.com/herdultimate/
-- General me: chungleung.com
+- Captaining my non-codey team: www.instagram.com/herdultimate
+- General me: https://chungleung.com/
